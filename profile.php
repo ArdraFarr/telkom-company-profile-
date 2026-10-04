@@ -14,7 +14,7 @@ require 'includes/header.php';
         <h2>Tujuan proyek</h2>
         <p>Proyek menampilkan profil, program studi, berita, serta formulir kontak. Data program studi dan berita dibaca dari
         database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
-    <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum. Bukan situs resmi Telkom University.</div>
+    <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum. Bukan situs resmi Telkom University. Dan in testing</div>
  </div>
 </section>
 <?php require 'includes/footer.php'; ?>
